@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /chess
+Disallow: /contact
+Disallow: /games
